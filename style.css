@@ -1,0 +1,130 @@
+/*text-shadow: 0px -3px 10px #000;*/
+
+body {
+    background-color: #132f55;
+}
+
+
+
+.box {
+    background-color: #132f55;
+    width: 75%;
+    padding: 7px;
+    margin: 0px auto 0px auto;
+    box-shadow: 0px 3px 5px #5f5f5f;
+    border-radius: 5px;
+}
+
+
+#headshot {
+    height: 200px;
+    width: 200px;
+    border-radius: 150px;
+    border: 2px solid #132f55;
+    margin: 25px auto 0px auto;
+    box-shadow: inset 0px 0px 20px 5px #000;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    border-radius: 150px;
+    margin: 0px auto 0px auto;
+    position: relative;
+    z-index: -2;
+}
+
+h4 {
+    color: #f2f2f2;
+    text-align: center;
+    font-size: 65px;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 15px auto 5px auto;
+}
+
+h3 {
+    color: #f2f2f2;
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-style: italic;
+    margin: 7px 10px 35px 10px;
+    
+}
+
+h2 {
+    color: #132f55;
+    text-align: center;
+    font-size: 18px;
+    font-family: sans-serif;
+    font-style: bold;
+    margin: 5px auto 5px auto;
+    padding: 5px 50px;
+}
+
+
+
+p {
+    color: #f2f2f2;
+    font-family: sans-serif;
+    text-align: center;
+    width: 770px;
+    margin: 5px auto 45px auto;
+}
+
+a:link {text-decoration: none; color: #e00000;}
+a:hover {text-decoration: none; color: #f00;}
+a:active {text-decoration: none; color: #9a0000;}
+a:visited {text-decoration: none; color: #e00000;}
+
+
+.box-text {
+    color: #132f55;
+    font-family: sans-serif;
+    font-size: 13px;
+    text-align: left;
+    width: 330px;
+}
+
+      
+
+#box-menu {
+    position: relative;
+    width: 760px;
+    height: 500px;
+    margin: auto auto auto auto;
+    color: #132f55;
+}
+
+
+#box-1 {
+    position: absolute;
+    width: 370px;
+    height: 249px;
+    border-radius: 20px;
+    background: white
+}
+#box-2 {
+    position: absolute;
+    left: 380px;
+    width: 370px;
+    height: 249px;
+    border-radius: 20px;
+    background: white
+}
+#box-3 {
+    position: absolute;
+    top: 260px;
+    width: 370px;
+    height: 249px;
+    border-radius: 20px;
+    background: white
+}
+#box-4 {
+    position: absolute;
+    top: 260px;
+    width: 370px;
+    height: 249px;
+    border-radius: 20px;
+    background: white
+}
