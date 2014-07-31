@@ -21,6 +21,12 @@ body {
 }
 
 
+#wrapper {
+	width: 75%;
+	margin: 0 auto;
+}
+
+
 #header a {
 	display: inline-block;
 	width: 350px;
@@ -86,7 +92,7 @@ a:visited {text-decoration: none; color: #e00000;}
 #content {
 	margin: 0 auto 10px auto;
 	text-align: center;
-	width: 75%;
+	width: 100%;
 }
 
 
