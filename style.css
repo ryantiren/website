@@ -138,7 +138,6 @@ a:visited {text-decoration: none; color: #e00000;}
 
 
 box-1 {
-    position: absolute;
     width: 370px;
     height: 249px;
     border-radius: 7px;
@@ -148,7 +147,6 @@ box-1 {
 
 
 box-2 {
-    position: absolute;
     left: 380px;
     width: 370px;
     height: 249px;
@@ -159,7 +157,6 @@ box-2 {
 
 
 box-3 {
-    position: absolute;
     top: 260px;
     width: 370px;
     height: 249px;
@@ -170,7 +167,6 @@ box-3 {
 
 
 box-4 {
-    position: absolute;
     top: 260px;
     width: 370px;
     height: 249px;
