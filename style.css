@@ -144,7 +144,7 @@ a:visited {text-decoration: none; color: #e00000;}
 
 #validsite {
 	display: inline;
-	position: relative;
+	position: fixed;
 	right: 10px;
 	bottom: 10px;
 }
