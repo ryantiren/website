@@ -142,11 +142,12 @@ a:visited {text-decoration: none; color: #e00000;}
 }
 
 
-#validsite p{
-	display: inline-block;
-	height: 40px;
-	width: 96px;
-}	
+#validsite {
+	display: inline;
+	position: fixed;
+	right: 10px;
+	bottom: 10px;
+}
 
 
 .w3 {
