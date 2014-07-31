@@ -17,6 +17,37 @@ body {
 
 
 
+@media (max-width: 768px) { 
+
+/*mobile-first */
+	
+	.boxes {
+		display: block;
+		width: 75%;
+	}
+	
+
+}
+
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 768px) { 
+/* tablet breakpoint:  */
+	.boxes {
+		display:inline;
+		/*float: left; might need to float*/
+	}
+	
+	#box-breaker {
+		display: block;
+		/* clear: both; breaks */
+	}
+
+}
+
+
+
+
 .box {
     background-color: #132f55;
     width: 75%;
