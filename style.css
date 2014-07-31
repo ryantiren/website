@@ -99,11 +99,6 @@ h2 {
 }
 
 
-#content {
-	margin-bottom: 10px;
-}
-
-
 p {
     color: #f2f2f2;
     font-family: sans-serif;
@@ -119,60 +114,26 @@ a:active {text-decoration: none; color: #9a0000;}
 a:visited {text-decoration: none; color: #e00000;}
 
 
+#content {
+	margin-bottom: 10px;
+}
+
+
+box {
+    width: 370px;
+    height: 249px;
+    border-radius: 7px;
+    border-color: #888;
+    background: white
+}
+
+
 .box-text {
     color: #132f55;
     font-family: sans-serif;
     font-size: 13px;
     text-align: left;
     width: 330px;
-}
-      
-
-#box-menu {
-    position: relative;
-    width: 760px;
-    height: 500px;
-    margin: auto auto auto auto;
-    color: #132f55;
-}
-
-
-box-1 {
-    width: 370px;
-    height: 249px;
-    border-radius: 7px;
-    border-color: #888;
-    background: white
-}
-
-
-box-2 {
-    left: 380px;
-    width: 370px;
-    height: 249px;
-    border-radius: 7px;
-    border-color: #888;
-    background: white
-}
-
-
-box-3 {
-    top: 260px;
-    width: 370px;
-    height: 249px;
-    border-radius: 7px;
-    border-color: #888;
-    background: white
-}
-
-
-box-4 {
-    top: 260px;
-    width: 370px;
-    height: 249px;
-    border-radius: 7px;
-    border-color: #888;
-    background: white
 }
 
 
