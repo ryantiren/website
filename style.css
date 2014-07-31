@@ -157,6 +157,9 @@ a:visited {text-decoration: none; color: #e00000;}
 
 #footer {
 	height: 10px;
+}
+
+.footer {
 	font-family: sans-serif;
 	font-size; 8px;
 	text-align: center;
