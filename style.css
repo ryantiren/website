@@ -146,7 +146,9 @@ a:visited {text-decoration: none; color: #e00000;}
 
 #validsite p{
 	display: inline;
-	width: 760px;
+	position: absolute;
+	bottom: 10px;
+	right: 10px;
 }	
 
 .w3 {
