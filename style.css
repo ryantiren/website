@@ -144,11 +144,9 @@ a:visited {text-decoration: none; color: #e00000;}
 }
 
 
-#validsite {
-	position: absolute;
-	bottom: 10px;
-	right: 10px;
-	
+#validsite p{
+	display: inline;
+}	
 
 .w3 {
     height: 31px;
