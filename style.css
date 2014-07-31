@@ -131,10 +131,9 @@ a:visited {text-decoration: none; color: #e00000;}
 
 #validsite {
 	position: relative;
-	bottom: 5px;
-	right: 5px;
-	display: block;
-}
+	bottom: 0px;
+	right: 0px;
+	
 
 .w3 {
     height: 31px;
