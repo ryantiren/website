@@ -120,6 +120,7 @@ a:visited {text-decoration: none; color: #e00000;}
 
 
 .box {
+	display: inline-block;
     width: 370px;
     height: 249px;
     border-radius: 7px;
