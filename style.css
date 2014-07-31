@@ -39,16 +39,6 @@ body {
 }
 
 
-.box {
-    background-color: #132f55;
-    width: 75%;
-    padding: 7px;
-    margin: 0px auto 0px auto;
-    box-shadow: 0px 3px 5px #5f5f5f;
-    border-radius: 5px;
-}
-
-
 #headshot {
     height: 200px;
     width: 200px;
@@ -126,6 +116,7 @@ a:visited {text-decoration: none; color: #e00000;}
     border-radius: 7px;
     border-color: #888;
     background: white
+    box-shadow: 0px 3px 5px #5f5f5f;
 }
 
 
