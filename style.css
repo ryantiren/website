@@ -146,8 +146,6 @@ a:visited {text-decoration: none; color: #e00000;}
 
 #validsite p{
 	display: inline-block;
-	height: 33px;
-	width: 96px;
 	position: absolute;
 	bottom: 10px;
 	right: 10px;
