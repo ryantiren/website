@@ -34,6 +34,9 @@ body {
 }
 
 
+#header a:hover {text-decoration: none; color: #e00000;}
+
+
 #headshot {
     height: 200px;
     width: 200px;
