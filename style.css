@@ -148,6 +148,9 @@ a:visited {text-decoration: none; color: #e00000;}
 	display: inline-block;
 	height: 33px;
 	width: 96px;
+	position: absolute;
+	bottom: 10px;
+	top: 10px;
 }	
 
 .w3 {
