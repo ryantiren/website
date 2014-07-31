@@ -13,10 +13,6 @@
 		display:inline;
 		/*float: left; might need to float */
 	}
-	
-	#box-breaker {
-		display: block;
-		/* clear: both; breaks */
 	}
 }
 
