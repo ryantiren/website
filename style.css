@@ -128,6 +128,11 @@ box {
 }
 
 
+#box-breaker {
+	height: 10px;
+}
+
+
 .box-text {
     color: #132f55;
     font-family: sans-serif;
