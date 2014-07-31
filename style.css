@@ -131,7 +131,7 @@ a:visited {text-decoration: none; color: #e00000;}
 
 
 #validsite {
-	position: fixed;
+	position: relative;
 	bottom: 5px;
 	right: 5px;
 }
@@ -139,3 +139,4 @@ a:visited {text-decoration: none; color: #e00000;}
 .w3 {
     height: 31px;
     width: 88px;
+}
