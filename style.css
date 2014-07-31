@@ -27,10 +27,14 @@ body {
 }
 
 
+#header {
+	text-align: center;
+}
+
+
 #header a {
 	display: inline-block;
 	width: 350px;
-	text-align: center;
 }
 
 
