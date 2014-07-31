@@ -87,7 +87,7 @@ a:visited {text-decoration: none; color: #e00000;}
 	display: inline-block;
     width: 370px;
     height: 249px;
-    border-color: ##07111f;
+    border-color: #07111f;
     border-width: 1px;
     border-style: solid;
     background: white;
@@ -99,6 +99,7 @@ a:visited {text-decoration: none; color: #e00000;}
   
   /* Opera 10.5, IE 9, Safari 5, Chrome, Firefox 4, iOS 4, Android 2.1+ */
   border-radius: 7px;
+  vertical-align: top;
 }
 
 
