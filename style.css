@@ -22,7 +22,8 @@ body {
 
 
 #header a {
-	display: inline;
+	display: inline-block;
+	width: 800px;
 }
 
 
