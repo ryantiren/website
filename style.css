@@ -25,7 +25,7 @@ body {
     box-shadow: inset 0px 0px 20px 5px #000;
 }
 
-img {
+.headshot {
     height: 200px;
     width: 200px;
     border-radius: 150px;
