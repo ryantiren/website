@@ -21,6 +21,11 @@ body {
 }
 
 
+#header a {
+	display: inline;
+}
+
+
 #headshot {
     height: 200px;
     width: 200px;
