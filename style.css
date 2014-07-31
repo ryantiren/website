@@ -128,3 +128,11 @@ a:visited {text-decoration: none; color: #e00000;}
     border-radius: 20px;
     background: white
 }
+
+
+#validsite {
+	position: fixed;
+	bottom: 5px;
+	right: 5px;
+}
+
